@@ -10,5 +10,5 @@ As far as the axes you are talking about, they are “abstract” features deriv
  I can provide a script that will abstract everything for you and you’ll only call a function in it every time you get a new sample and it’ll return the current action
  
  
-        CNN-Autoencoder/TSNE Clustering.png
+![t-SNE clustering](CNN-Autoencoder/TSNE Clustering.png?raw=true "Title")
       
